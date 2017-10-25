@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=maxSize
+comment0.target=Go(int)
+comment1.params=value
+comment1.target=void\ insert(int)
+comment1.text=\r\n\ In\ the\ same\ time\ insert\ value\ in\ array\ and\ sort\ it\ with\ linear\ search\r\n
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\r\n\ Display\ elements\ in\ array\r\n
+comment3.params=key\ lowerBound\ upperBound
+comment3.target=boolean\ recusiveBinary(int,\ int,\ int)
+comment3.text=\r\n\ Use\ a\ recusive\ binary\ search\ to\ find\ element\ in\ array\r\n\ @param\ key\ which\ you\ wan\ to\ find\ in\ array\r\n\ @param\ lowerBound\ -\ lowerBound\ of\ array\ at\ index\ 0\r\n\ @param\ upperBound\ -\ upperBound\ in\ array\ or\ the\ last\ element\ in\ array\r\n\ @return\ true\ if\ element\ is\ same\ as\ key\ else\ return\ false\r\n
+comment4.params=key
+comment4.target=boolean\ find(int)
+comment4.text=\r\n\ Find\ key\ in\ array\r\n\ @return\ true\ if\ you\ found\ it\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
