@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Selection(int)
+comment1.params=j
+comment1.target=void\ insert(long)
+comment1.text=\r\n\ Insert\ item\ in\ array;\r\n
+comment2.params=value
+comment2.target=long\ delete(long)
+comment2.text=\r\n\ Delete\ value\ from\ array\r\n\ @return\ deleted\ item\ of\ array\r\n
+comment3.params=
+comment3.target=void\ selectionSort()
+comment3.text=\r\n\ Sort\ array\ with\ selection\ sort\ on\ the\ way\ that\ you\ look\ for\ the\ minimum\ item\ and\ than\ switch\ with\ left\ most\r\n
+comment4.params=a\ b
+comment4.target=void\ swap(int,\ int)
+comment5.params=
+comment5.target=void\ display()
+numComments=6
